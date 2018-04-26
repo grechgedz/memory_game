@@ -1,0 +1,10 @@
+C:\Users\DUNKAN\source\repos\Memory_Elijah\Memory_Elijah\bin\Debug\Memory_Elijah.exe.config
+C:\Users\DUNKAN\source\repos\Memory_Elijah\Memory_Elijah\bin\Debug\Memory_Elijah.exe
+C:\Users\DUNKAN\source\repos\Memory_Elijah\Memory_Elijah\bin\Debug\Memory_Elijah.pdb
+C:\Users\DUNKAN\source\repos\Memory_Elijah\Memory_Elijah\obj\Debug\Memory_Elijah.csprojResolveAssemblyReference.cache
+C:\Users\DUNKAN\source\repos\Memory_Elijah\Memory_Elijah\obj\Debug\Memory_Elijah.Form1.resources
+C:\Users\DUNKAN\source\repos\Memory_Elijah\Memory_Elijah\obj\Debug\Memory_Elijah.Properties.Resources.resources
+C:\Users\DUNKAN\source\repos\Memory_Elijah\Memory_Elijah\obj\Debug\Memory_Elijah.csproj.GenerateResource.Cache
+C:\Users\DUNKAN\source\repos\Memory_Elijah\Memory_Elijah\obj\Debug\Memory_Elijah.csproj.CoreCompileInputs.cache
+C:\Users\DUNKAN\source\repos\Memory_Elijah\Memory_Elijah\obj\Debug\Memory_Elijah.exe
+C:\Users\DUNKAN\source\repos\Memory_Elijah\Memory_Elijah\obj\Debug\Memory_Elijah.pdb
